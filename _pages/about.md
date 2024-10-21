@@ -1,5 +1,3 @@
-View
-# Ke Chen - Neuroscience researcher
 
 ## About Me
 I am a neuroscientist focusing on iEEG-based research. My work spans multiple domains including neural signal processing like anesthesia and brain decoding. My research primarily revolves around understanding neural dynamics during anesthesia and applying advanced decoding techniques to uncover meaningful insights from invasive brain signals.
